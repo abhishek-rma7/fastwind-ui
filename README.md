@@ -1,6 +1,6 @@
 # FastWind UI
 
-FastWind UI is a large collection of free Tailwind CSS components for eCommerce UI 🐳
+FastWind UI is a large collection of free Tailwind CSS components for React JS🍓
 
 ![FastWind](https://hyperui.dev/og.png)
 
